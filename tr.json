@@ -1,0 +1,289 @@
+{
+  "meta": {
+    "title": "Lova | Modern Çift Uygulaması",
+    "description": "Aranızdaki bağı güçlendiren, hatıralarınızı saklayan ve ilişkinize heyecan katan yeni nesil çift uygulaması. Şimdiden yerinizi ayırtın!",
+    "keywords": ["çift uygulaması", "ilişki", "aşk", "sevgili uygulaması", "lova", "duygu paylaşımı", "ortak takvim", "çiftler"],
+    "ogTitle": "Lova | Modern Çift Uygulaması",
+    "ogDescription": "Aranızdaki bağı güçlendiren, hatıralarınızı saklayan ve ilişkinize heyecan katan yeni nesil çift uygulaması.",
+    "ogAlt": "Lova - Çift Uygulaması"
+  },
+  "hero": {
+    "comingSoon": "Çok Yakında",
+    "title": "İlişkinizin",
+    "titleHighlight": "Yeni Hali",
+    "subtitle": "Lova ile partnerinizle aranızdaki bağı kuvvetlendirin, en güzel anılarınızı biriktirin ve ilişkinizi bir üst seviyeye taşıyın.",
+    "cta": "Yerinizi Ayırtın",
+    "download": "Hemen İndir",
+    "reserveButton": "Kullanıcı Adı Al",
+    "reserveDesc": "Erken erişim için şimdi kaydolun, dilediğiniz kullanıcı adını hemen alın.",
+    "scrollText": "Keşfet"
+  },
+  "features": {
+    "title": "Neler",
+    "titleHighlight": "Sunuyoruz?",
+    "description": "İlişkinizi daha anlamlı kılmak için tasarlanmış özel özellikler",
+    "items": {
+      "item0": {
+        "title": "Günlük Sorular",
+        "desc": "Her gün yeni sorularla birbirinizi daha derinlemesine tanıyın"
+      },
+      "item1": {
+        "title": "Duygu Paylaşımı",
+        "desc": "Partnerinizin o an nasıl hissettiğini kolayca takip edin"
+      },
+      "item2": {
+        "title": "Ortak Takvim",
+        "desc": "Özel günleri ve randevularınızı birlikte planlayın"
+      },
+      "item3": {
+        "title": "Dilek Listesi",
+        "desc": "Hayallerinizi paylaşın ve birlikte gerçekleştirin"
+      },
+      "item4": {
+        "title": "Anı Defteri",
+        "desc": "Fotoğraflarınızı ve videolarınızı size özel bir alanda saklayın"
+      },
+      "item5": {
+        "title": "Müzik Paylaşımı",
+        "desc": "Birlikte müzik dinleyin, hislerinizi şarkılarla anlatın"
+      }
+    }
+  },
+  "comparison": {
+    "title": "Neden",
+    "titleHighlight": "Lova?",
+    "subtitle": "Sadece bir mesajlaşma uygulaması değil, çiftlere özel bir dünya",
+    "header": {
+      "feature": "Özellik",
+      "whatsapp": "WhatsApp",
+      "instagram": "Instagram"
+    },
+    "features": {
+      "dailyQuestions": "Günün Sorusu",
+      "moodSharing": "Duygu Durumu",
+      "calendar": "Ortak Takvim",
+      "wishlist": "Dilek Listesi",
+      "memories": "Anı Defteri",
+      "music": "Müzik Paylaşımı",
+      "stats": "İlişki İstatistikleri",
+      "quiz": "Eğlenceli Testler",
+      "surprise": "Sürpriz Önerileri",
+      "privacy": "Gizlilik Garantisi",
+      "couplesOnly": "Sadece Çiftlere Özel"
+    }
+  },
+  "howItWorks": {
+    "title": "Nasıl",
+    "titleHighlight": "Çalışır?",
+    "subtitle": "3 kolay adımda başlayın",
+    "steps": {
+      "0": {
+        "title": "Kayıt Olun",
+        "desc": "Ücretsiz hesabınızı oluşturun ve partnerinizi davet edin"
+      },
+      "1": {
+        "title": "Eşleşin",
+        "desc": "Partnerinizle profilinizi bağlayın"
+      },
+      "2": {
+        "title": "Kullanmaya Başlayın",
+        "desc": "İlişkinizi güzelleştirecek tüm özellikleri keşfedin"
+      }
+    }
+  },
+  "faq": {
+    "title": "Sıkça Sorulan",
+    "titleHighlight": "Sorular",
+    "items": {
+      "0": {
+        "q": "Lova ücretsiz mi?",
+        "a": "Evet! Temel özellikler tamamen ücretsizdir. Daha fazlasını isteyenler için premium seçeneklerimiz mevcut."
+      },
+      "1": {
+        "q": "Verilerim güvende mi?",
+        "a": "Kesinlikle. Tüm verileriniz uçtan uca şifrelenir ve asla üçüncü taraflarla paylaşılmaz."
+      },
+      "2": {
+        "q": "Hangi platformlarda çalışır?",
+        "a": "Lova, hem iOS hem de Android cihazlarda kullanılabilir. Web sürümü de yakında sizlerle."
+      }
+    }
+  },
+  "cta": {
+    "title": "Hazır mısınız",
+    "highlight": "?",
+    "desc": "Erken kaydınızı yapın, istediğiniz kullanıcı adını kimseye kaptırmayın."
+  },
+  "stats": {
+    "preregister": {
+      "label": "Şimdi katılın!",
+      "desc": "Kayıtlı kullanıcı",
+      "first": "İlk siz olun!"
+    },
+    "target": {
+      "label": "Yüksek kalite garantisi",
+      "desc": "Yüksek kalite garantisi"
+    },
+    "privacy": {
+      "desc": "Verileriniz bizimle güvende"
+    }
+  },
+  "footer": {
+    "description": "İlişkinizi güçlendiren, hatıralarınızı yaşatan ve sizi birbirinize bağlayan yeni nesil mobil uygulama.",
+    "productTitle": "Ürün",
+    "features": "Özellikler",
+    "howItWorks": "Nasıl Çalışır?",
+    "faq": "S.S.S.",
+    "legalTitle": "Yasal",
+    "privacy": "Gizlilik",
+    "terms": "Şartlar",
+    "kvkk": "KVKK",
+    "madeWith": "ile geliştirildi"
+  },
+  "blog": {
+    "title": "Blog",
+    "subtitle": "Tengra Studio'dan ilişki tavsiyeleri ve güncel haberler.",
+    "linkText": "Tengra Blog",
+    "comingSoonTitle": "Blog Yazıları Yakında!",
+    "comingSoonDescription": "Tengra ekibinden ilişki tavsiyeleri ve en yeni haberler çok yakında burada olacak.",
+    "ctaButton": "Tengra Studio Blog"
+  },
+  "register": {
+    "completeTitle": "Kaydı Tamamla",
+    "googleVerified": "Google hesabınız doğrulandı. Yerinizi almak için bilgilerinizi tamamlayın.",
+    "firstName": "Adınız",
+    "lastName": "Soyadınız",
+    "usernameLabel": "Kullanıcı Adınız",
+    "passwordLabel": "Şifreniz",
+    "passwordOptional": "(Opsiyonel)",
+    "birthDateLabel": "Doğum Tarihiniz",
+    "cta": "Kaydı Tamamla",
+    "googleError": "Google ile giriş yapılırken bir hata oluştu.",
+    "successTitle": "Hoş Geldiniz!",
+    "successWelcome": "Tebrikler, {username}!",
+    "successDesc": "Profiliniz oluşturuldu. Artık uygulamayı kullanmaya başlayabilirsiniz.",
+    "successReserved": "Kullanıcı adınız başarıyla rezerve edildi!"
+  },
+  "influencer": {
+    "badge": "İş Birliği Programı",
+    "title": "İçerik Üreticisi misiniz?",
+    "subtitle": "Lova lansmanında bize katılın! Özel hediyeler ve fırsatlar sizi bekliyor.",
+    "requirementFollowers": "En az 5 bin takipçi",
+    "requirementCouples": "Çift hesapları önceliklidir",
+    "placeholderName": "Adınız nedir?",
+    "placeholderInstagram": "@isminiz",
+    "followerCount": "Takipçi sayınız",
+    "apply": "Başvuru Yap",
+    "successTitle": "Başvurunuz Alındı!",
+    "successDesc": "En kısa sürede sizinle iletişime geçeceğiz."
+  },
+  "referral": {
+    "shareTitle": "Lova - Erken Kayıt Fırsatı",
+    "shareText": "Lova'ya katılın, isminizi şimdiden ayırtın!",
+    "yourQueue": "Sıranız:",
+    "inviteFriends": "Arkadaşlarınızı davet ederek sırada öne geçin!",
+    "inviteLink": "Davet Linkiniz",
+    "invitedCount": "Davet Edilen",
+    "queueEarned": "Sıra Avantajı"
+  },
+  "twitter": {
+    "tweet1": "Sevginin dijital haliyle tanışmaya çok az kaldı! 💕 Yerinizi ayırtmak için linke tıklayın. #Lova #IlişkiUygulaması",
+    "tweet2": "5.000 kayıt hedefine çok yaklaştık! 🎉 Siz de aramıza katılın.",
+    "tweet3": "İlişkinizi güçlendirecek yeni özellikler yakında geliyor. Takipte kalın! ✨",
+    "daysAgo": "{count} gün önce",
+    "weeksAgo": "{count} hafta önce"
+  },
+  "pressKit": {
+    "description": "Lova basın kiti - Logo ve görseller.",
+    "categoryLogo": "Logo",
+    "categoryScreenshots": "Görseller",
+    "categoryDocuments": "Dokümanlar",
+    "pressReleaseTr": "Haber Bülteni (TR)",
+    "title": "Basın Kiti",
+    "subtitle": "Lova hakkında aradığınız tüm görsel ve materyaller burada.",
+    "downloadAll": "Tümünü İndir (ZIP)",
+    "brandColors": "Renklerimiz",
+    "contactTitle": "Basın İletişimi",
+    "contactDesc": "Sorularınız için bizimle iletişime geçin",
+    "homeLink": "Ana Sayfaya Dön"
+  },
+  "privacy": {
+    "badge": "Gizlilik Odaklı",
+    "title": "Verileriniz",
+    "titleHighlight": "Güvende",
+    "subtitle": "Gizliliğiniz bizim için her şeyden önemli. İşte verilerinizi nasıl koruyoruz.",
+    "features": {
+      "encryption": {
+        "title": "Uçtan Uca Şifreleme",
+        "desc": "Tüm paylaşımlarınız güvenli bir şekilde şifrelenir."
+      },
+      "gdpr": {
+        "title": "Yasalara Uyumlu",
+        "desc": "KVKK ve Avrupa veri koruma standartlarına tam uyum."
+      },
+      "noSale": {
+        "title": "Veri Satışı Yok",
+        "desc": "Verileriniz asla üçüncü taraflara satılmaz veya paylaşılmaz."
+      },
+      "localServers": {
+        "title": "Güvenli Sunucular",
+        "desc": "Verileriniz Türkiye'deki yüksek güvenlikli sunucularda saklanır."
+      }
+    }
+  },
+  "testimonials": {
+    "title": "Kullanıcılarımız Ne",
+    "titleHighlight": "Diyor?",
+    "subtitle": "Kullanıcı yorumlarımız çok yakında burada olacak!",
+    "comingSoonTitle": "Çok Yakında!",
+    "comingSoonDesc": "Uygulamayı deneyimleyen çiftlerin hikayelerini yakında paylaşacağız. Şimdiden kaydolun!"
+  },
+  "common": {
+    "comingSoon": "Çok Yakında",
+    "success": "Başarılı!",
+    "error": "Hata!",
+    "emailPlaceholder": "E-posta adresiniz",
+    "joinWaitlist": "Sıraya Katıl",
+    "processing": "İşleniyor...",
+    "registered": "Kayıt Alındı",
+    "registeredDesc": "Lansman yaklaştığında size haber vereceğiz.",
+    "reserve_username": "İsmini Ayırt",
+    "reserve_desc": "Lova açılmadan kullanıcı adını seç, sürprizleri kaçırma.",
+    "copyright": "© 2025 Lova. Tüm hakları saklıdır.",
+    "genericError": "Bir sorun oluştu, lütfen tekrar deneyin.",
+    "or": "veya",
+    "close": "Kapat",
+    "follow": "Takip Et",
+    "readMore": "Devamını Oku",
+    "learnMore": "Daha Fazla Bilgi"
+  },
+  "countdown": {
+    "days": "GÜN",
+    "hours": "SAAT",
+    "minutes": "DAKİKA",
+    "seconds": "SANİYE"
+  },
+  "liveCounter": {
+    "personWaiting": "kişi bekliyor",
+    "couplesWaiting": "çift bekliyor"
+  },
+  "milestones": {
+    "goalPrefix": "Hedef:",
+    "togetherWeWill": "Birlikte başaracağız!",
+    "completed": "tamamlandı",
+    "first100": "İlk 100",
+    "target500": "500 Hedef",
+    "launch1K": "1K Açılış"
+  },
+  "download": {
+    "title": "Lansman İçin",
+    "titleHighlight": "Geri Sayım",
+    "subtitle": "Yakında App Store ve Google Play'de. Haberdar olmak için bildirimleri açın.",
+    "comingSoon": "Çok Yakında",
+    "notify": "Haber Ver →",
+    "free": "Ücretsiz"
+  },
+  "press": {
+    "title": "YAKINDA BASINDA"
+  }
+}

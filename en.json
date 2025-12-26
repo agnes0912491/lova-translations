@@ -1,0 +1,289 @@
+{
+  "meta": {
+    "title": "Lova | The Bond Between Hearts",
+    "description": "The next generation couples app to strengthen your bond, immortalize your memories, and draw you closer. Pre-register now!",
+    "keywords": ["couples app", "relationship", "love", "lova", "mood tracking", "shared calendar", "couples"],
+    "ogTitle": "Lova | The Bond Between Hearts",
+    "ogDescription": "The next generation couples app to strengthen your bond, immortalize your memories, and draw you closer.",
+    "ogAlt": "Lova - Couples App"
+  },
+  "hero": {
+    "comingSoon": "On the Horizon",
+    "title": "A New Era of",
+    "titleHighlight": "Bonds",
+    "subtitle": "Strengthen your connection, treasure your memories, and deepen your love with Lova.",
+    "cta": "Join the Wait",
+    "download": "Claim It",
+    "reserveButton": "Secure Your Name",
+    "reserveDesc": "Register early for first access and claim your name.",
+    "scrollText": "Explore"
+  },
+  "features": {
+    "title": "What We",
+    "titleHighlight": "Offer?",
+    "description": "Features woven to make your bond more meaningful",
+    "items": {
+      "item0": {
+        "title": "Daily Whispers",
+        "desc": "New questions each day to know each other deeper"
+      },
+      "item1": {
+        "title": "Mood Sharing",
+        "desc": "Sense your partner's heart, approach with empathy"
+      },
+      "item2": {
+        "title": "Shared Calendar",
+        "desc": "Plan your special moments and reminders together"
+      },
+      "item3": {
+        "title": "Wishlist",
+        "desc": "Share your dreams and make them come true together"
+      },
+      "item4": {
+        "title": "Memory Vault",
+        "desc": "Keep your precious photos and videos safe"
+      },
+      "item5": {
+        "title": "Music Sharing",
+        "desc": "Create shared playlists, express feelings through melody"
+      }
+    }
+  },
+  "comparison": {
+    "title": "Why",
+    "titleHighlight": "Lova?",
+    "subtitle": "More than messaging — an experience woven for couples alone",
+    "header": {
+      "feature": "Feature",
+      "whatsapp": "WhatsApp",
+      "instagram": "Instagram"
+    },
+    "features": {
+      "dailyQuestions": "Daily Whispers",
+      "moodSharing": "Mood Sharing",
+      "calendar": "Shared Calendar",
+      "wishlist": "Wishlist",
+      "memories": "Memory Vault",
+      "music": "Music Sharing",
+      "stats": "Relationship Stats",
+      "quiz": "Fun Quizzes",
+      "surprise": "Surprise Suggestions",
+      "privacy": "Your secrets are safe",
+      "couplesOnly": "For Lovers Only"
+    }
+  },
+  "howItWorks": {
+    "title": "How It",
+    "titleHighlight": "Works?",
+    "subtitle": "Begin in 3 steps",
+    "steps": {
+      "0": {
+        "title": "Sign Up",
+        "desc": "Create a free account and invite your beloved"
+      },
+      "1": {
+        "title": "Connect",
+        "desc": "Link with your partner and craft your profile"
+      },
+      "2": {
+        "title": "Explore",
+        "desc": "Start using features that strengthen your bond"
+      }
+    }
+  },
+  "faq": {
+    "title": "Frequently Asked",
+    "titleHighlight": "Questions",
+    "items": {
+      "0": {
+        "q": "Is Lova free?",
+        "a": "Yes! Core features are free. Affordable premium options are available for extra magic."
+      },
+      "1": {
+        "q": "Is my data safe?",
+        "a": "Absolutely! All data is end-to-end encrypted and never shared with outsiders."
+      },
+      "2": {
+        "q": "Which platforms support it?",
+        "a": "Lova runs on iOS and Android. A web version is on the horizon."
+      }
+    }
+  },
+  "cta": {
+    "title": "Ready",
+    "highlight": "?",
+    "desc": "Register early for first access and secure your name."
+  },
+  "stats": {
+    "preregister": {
+      "label": "Be the first!",
+      "desc": "Registered",
+      "first": "Be the first!"
+    },
+    "target": {
+      "label": "Premium experience pledge",
+      "desc": "Premium experience pledge"
+    },
+    "privacy": {
+      "desc": "Your secrets are safe"
+    }
+  },
+  "footer": {
+    "description": "The next generation couples app to strengthen your bond, immortalize your memories, and draw you closer.",
+    "productTitle": "Product",
+    "features": "Features",
+    "howItWorks": "How It Works",
+    "faq": "FAQ",
+    "legalTitle": "Legal",
+    "privacy": "Privacy",
+    "terms": "Terms",
+    "kvkk": "KVKK",
+    "madeWith": "crafted with"
+  },
+  "blog": {
+    "title": "Blog",
+    "subtitle": "Relationship whispers and updates from Tengra Studio.",
+    "linkText": "Tengra Blog",
+    "comingSoonTitle": "Blog Posts On the Horizon!",
+    "comingSoonDescription": "Our blog will soon carry relationship tips, Lova updates, and more from the Tengra Studio guild.",
+    "ctaButton": "Tengra Studio Blog"
+  },
+  "register": {
+    "completeTitle": "Complete Registration",
+    "googleVerified": "Your Google account is verified. Complete your profile to secure your spot.",
+    "firstName": "First Name",
+    "lastName": "Last Name",
+    "usernameLabel": "Username",
+    "passwordLabel": "Password",
+    "passwordOptional": "(Optional)",
+    "birthDateLabel": "Birth Date",
+    "cta": "Register Now",
+    "googleError": "Google sign-in failed.",
+    "successTitle": "Welcome Aboard!",
+    "successWelcome": "Congratulations, {username}!",
+    "successDesc": "Your profile is forged. You can now log in.",
+    "successReserved": "Your name has been secured."
+  },
+  "influencer": {
+    "badge": "Influencer Program",
+    "title": "Are you a Creator?",
+    "subtitle": "Join Lova's launch! Early access, special gifts, and more await.",
+    "requirementFollowers": "5K+ followers required",
+    "requirementCouples": "Couple accounts prioritized",
+    "placeholderName": "Your Name",
+    "placeholderInstagram": "@instagram_username",
+    "followerCount": "Follower Count",
+    "apply": "Apply",
+    "successTitle": "Application Received!",
+    "successDesc": "We'll reach out soon."
+  },
+  "referral": {
+    "shareTitle": "Lova - The App for Lovers",
+    "shareText": "Join Lova and get early access!",
+    "yourQueue": "Your Queue:",
+    "inviteFriends": "Invite your friends to move ahead!",
+    "inviteLink": "Your Invite Link",
+    "invitedCount": "Friends Invited",
+    "queueEarned": "Queue Advantage"
+  },
+  "twitter": {
+    "tweet1": "You will soon discover the digital form of love! 💕 Follow the link to pre-register. #Lova #CouplesApp",
+    "tweet2": "We are close to our 5,000 pre-registration goal! 🎉 Join too, get early access.",
+    "tweet3": "Features to strengthen your bond are coming soon. Stay tuned! ✨",
+    "daysAgo": "{count} days ago",
+    "weeksAgo": "{count} week(s) ago"
+  },
+  "pressKit": {
+    "description": "Lova press kit - Logo, screenshots and press release.",
+    "categoryLogo": "Logo",
+    "categoryScreenshots": "Screenshots",
+    "categoryDocuments": "Documents",
+    "pressReleaseTr": "Press Release (TR)",
+    "title": "Press Kit",
+    "subtitle": "All visuals and documents you need to chronicle Lova.",
+    "downloadAll": "Download All Files (ZIP)",
+    "brandColors": "Brand Colors",
+    "contactTitle": "Press Contact",
+    "contactDesc": "Reach out for questions",
+    "homeLink": "Return Home"
+  },
+  "privacy": {
+    "badge": "Privacy First",
+    "title": "Your Secrets Are",
+    "titleHighlight": "Safe",
+    "subtitle": "Your privacy is our sacred duty. Here's how we guard it.",
+    "features": {
+      "encryption": {
+        "title": "End-to-End Encryption",
+        "desc": "All your messages and shares are sealed."
+      },
+      "gdpr": {
+        "title": "GDPR & KVKK Compliant",
+        "desc": "Full compliance with European and Turkish data laws."
+      },
+      "noSale": {
+        "title": "No Data Sale",
+        "desc": "Your data is never shared with outsiders."
+      },
+      "localServers": {
+        "title": "Local Servers",
+        "desc": "Your data rests on secure servers in Turkey."
+      }
+    }
+  },
+  "testimonials": {
+    "title": "What Lovers",
+    "titleHighlight": "Say?",
+    "subtitle": "Precious feedback from beta users arriving soon!",
+    "comingSoonTitle": "Arriving Soon!",
+    "comingSoonDesc": "We'll share real stories from beta couples here. Register early to be among the first!"
+  },
+  "common": {
+    "comingSoon": "On the Horizon",
+    "success": "Forged and done!",
+    "error": "Something went awry.",
+    "emailPlaceholder": "Your email address",
+    "joinWaitlist": "Join the Wait",
+    "processing": "Forging...",
+    "registered": "Registered",
+    "registeredDesc": "We'll summon you when it's your turn.",
+    "reserve_username": "Secure Your Name",
+    "reserve_desc": "Claim your name before Lova launches — don't miss the surprises.",
+    "copyright": "© 2025 Lova. All rights reserved.",
+    "genericError": "A hiccup occurred. Give it another go.",
+    "or": "or",
+    "close": "Seal",
+    "follow": "Follow",
+    "readMore": "Read on",
+    "learnMore": "Discover more"
+  },
+  "countdown": {
+    "days": "DAYS",
+    "hours": "HOURS",
+    "minutes": "MINUTES",
+    "seconds": "SECONDS"
+  },
+  "liveCounter": {
+    "personWaiting": "soul waiting",
+    "couplesWaiting": "couples waiting"
+  },
+  "milestones": {
+    "goalPrefix": "Goal:",
+    "togetherWeWill": "Together we shall!",
+    "completed": "achieved",
+    "first100": "First 100",
+    "target500": "500 Target",
+    "launch1K": "1K Launch"
+  },
+  "download": {
+    "title": "Be First at",
+    "titleHighlight": "Launch",
+    "subtitle": "Coming soon to App Store and Google Play. Turn on notifications — don't miss the launch.",
+    "comingSoon": "On the Horizon",
+    "notify": "Notify →",
+    "free": "Free"
+  },
+  "press": {
+    "title": "COMING TO PRESS"
+  }
+}
